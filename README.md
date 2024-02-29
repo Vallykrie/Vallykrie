@@ -1,4 +1,7 @@
-<img src="/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F3210ec23-d410-41fc-b018-eb9f6a92b600%2Fe956c0bb-8e94-4f29-9a6c-cbfc605e8799%2Ftumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp?table=block&amp;id=48c93147-c0c6-46fc-a2db-0045e535c885&amp;spaceId=3210ec23-d410-41fc-b018-eb9f6a92b600&amp;width=2000&amp;userId=ebf27b73-58a8-4c9e-972b-c8008c5ead1d&amp;cache=v2" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 58.74%;">
+<div style="width: 100%; cursor: move;"><div style="display: grid; width: 100%; height: 30vh;"><div style="grid-area: 1 / 1; width: 100%; height: 100%;"><img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 0%;"></div></div></div>
+
+<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 58.74%;">
+<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp">
 
 <h1 align="center">Hi 👋, I'm Nathan Sudiara</h1>
 <h3 align="center">I am an undergraduate Informatics Engineering student from Universitas Brawijaya</h3>
