@@ -1,8 +1,9 @@
 
-<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 50vh; opacity: 1; object-position: center 58.74%;">
+<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 33vh; opacity: 1; object-position: center 58.74%;">
 
 <h1 align="center">Hi 👋, I'm Nathan Sudiara</h1>
 <h3 align="center">I am an undergraduate Informatics Engineering student from Universitas Brawijaya</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vallykrie&label=Profile%20views&color=0e75b6&style=flat" alt="vallykrie" /> </p>
 
