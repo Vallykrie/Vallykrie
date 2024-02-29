@@ -1,7 +1,5 @@
-<div style="width: 100%; cursor: move;"><div style="display: grid; width: 100%; height: 30vh;"><div style="grid-area: 1 / 1; width: 100%; height: 100%;"><img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 0%;"></div></div></div>
 
-<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: 1; object-position: center 58.74%;">
-<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp">
+<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/main/tumblr_ce237ad7762fc6bce812f5f47f499d76_7acfce39_1280.webp" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 0px; width: 100%; height: 50vh; opacity: 1; object-position: center 58.74%;">
 
 <h1 align="center">Hi 👋, I'm Nathan Sudiara</h1>
 <h3 align="center">I am an undergraduate Informatics Engineering student from Universitas Brawijaya</h3>
