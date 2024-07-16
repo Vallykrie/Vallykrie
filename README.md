@@ -47,8 +47,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/output/snake.svg" alt="Snake animation" />
-
 ###
