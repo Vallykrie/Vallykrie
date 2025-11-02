@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">I am an undergraduate Informatics Engineering student from Brawijaya University 😁</p>
+<p align="center">I am an undergraduate Informatics Engineering student from Brawijaya University. Nice to meet you!</p>
 
 ###
 
