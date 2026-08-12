@@ -92,8 +92,6 @@
 
 <div align="center">
 
-<br />
-
 <sub>🌱 still learning, still shipping — thanks for stopping by</sub>
 
 </div>
