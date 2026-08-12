@@ -31,26 +31,6 @@
 
 ---
 
-## 🌿 whoami
-
-```ts
-const nathan = {
-  study:    "Informatics Engineering @ Universitas Brawijaya",
-  thesis:   "Hybrid SARIMAX-LSTM for IHSG forecasting",
-  building: ["multi-agent dev tooling", "3D web experiences", "small Swift toys"],
-  stack:    ["TypeScript", "Next.js", "Python", "Swift"],
-  hobby:    "shipping weird side projects at 2am",
-};
-```
-
-- 🧠 Writing my thesis on **IHSG (Indonesian stock index) forecasting** — a hybrid SARIMAX–LSTM model with exogenous variables, wrapped in a production-ready Next.js + FastAPI + Redis dashboard.
-- 🤖 Building **AI agent orchestration tooling** — [`gemini-swarm-skill`](https://github.com/Vallykrie/gemini-swarm-skill) and [`swarmGPT`](https://github.com/Vallykrie/swarmGPT) fan heavy work out to parallel agent sessions.
-- 🎨 Crafting an interactive **3D portfolio** with Next.js 16, React Three Fiber and GSAP → **[nathansudiara.com](https://nathansudiara.com)**
-- 🍎 Tinkering with **SwiftUI / SpriteKit** — notch widgets, tiny games, and other excuses to open Xcode.
-- 💬 Ask me about agent workflows, front-end motion, or over-engineering a personal site.
-
----
-
 ## 🛠️ Toolbox
 
 <div align="center">
@@ -95,21 +75,6 @@ const nathan = {
 
 ---
 
-## 📌 Featured Work
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| 🐝 **[gemini-swarm-skill](https://github.com/Vallykrie/gemini-swarm-skill)** | Fans heavy tasks out from Claude Code to parallel Gemini sessions via the Antigravity CLI | `Shell` `Claude Code` |
-| 🧩 **[swarmGPT](https://github.com/Vallykrie/swarmGPT)** | Installable ChatGPT / Codex plugin for multi-agent orchestration + native image generation | `Shell` `Codex` |
-| 📈 **[stock-prediction](https://github.com/Vallykrie/stock-prediction)** | Thesis — hybrid SARIMAX–LSTM IHSG forecasting with a full dashboard | `Python` `FastAPI` `Next.js` `Redis` |
-| 🫀 **[interactive-human-anatomy](https://interactive-human-anatomy.vercel.app)** | Explorable 3D human anatomy in the browser | `Next.js` `Three.js` |
-| ✍️ **[air-writer](https://github.com/Vallykrie/air-writer)** | Draw in mid-air with hand gestures — pinch to draw, peace sign to clear | `Python` `MediaPipe` `OpenCV` |
-| 👻 **[ghostty-zsh-conf](https://github.com/Vallykrie/ghostty-zsh-conf)** | My terminal setup — Ghostty + zsh, shaders included | `Shell` |
-
-<div align="center"><sub>… and <a href="https://github.com/Vallykrie?tab=repositories">30-something more</a> in the garden 🌱</sub></div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
@@ -126,8 +91,6 @@ const nathan = {
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/refs/heads/output/snake.svg" width="98%" alt="Contribution snake" />
 
 <br />
 
