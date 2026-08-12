@@ -127,7 +127,7 @@ const nathan = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/output/snake.svg" width="98%" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/Vallykrie/Vallykrie/refs/heads/output/snake.svg" width="98%" alt="Contribution snake" />
 
 <br />
 
