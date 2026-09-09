@@ -75,21 +75,6 @@
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vallykrie&show_icons=true&include_all_commits=true&rank_icon=github&title_color=5EEAD4&text_color=C6E3D6&icon_color=7FD9A6&bg_color=0B1B16&border_color=1E3B32&border_radius=10" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vallykrie&layout=compact&langs_count=8&card_width=340&title_color=5EEAD4&text_color=C6E3D6&icon_color=7FD9A6&bg_color=0B1B16&border_color=1E3B32&border_radius=10" height="170" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Vallykrie&locale=en&mode=daily&border_radius=10&background=0B1B16&border=1E3B32&stroke=1E3B32&ring=5EEAD4&fire=7FD9A6&currStreakNum=C6E3D6&sideNums=C6E3D6&currStreakLabel=5EEAD4&sideLabels=7FD9A6&dates=6B8F82" height="170" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vallykrie&bg_color=0B1B16&color=C6E3D6&line=5EEAD4&point=7FD9A6&area=true&area_color=1E3B32&hide_border=true&radius=10" width="98%" alt="Contribution activity graph" />
-
-</div>
-
----
-
 <div align="center">
 
 <sub>🌱 still learning, still shipping — thanks for stopping by</sub>
