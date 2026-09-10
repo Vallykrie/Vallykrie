@@ -5,7 +5,7 @@
 <br /><br />
 
 <a href="https://nathansudiara.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=5EEAD4&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Nathan+%F0%9F%91%8B;Informatics+Engineering+%40+Brawijaya;I+build+AI+agent+tooling;having+fun+%E2%98%9D%F0%9F%A4%93" alt="Hi, I'm Nathan" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=5EEAD4&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Nathan+%F0%9F%91%8B;Informatics+Engineering;I+build+AI+agent+tooling;having+fun+%E2%98%9D%F0%9F%A4%93" alt="Hi, I'm Nathan" />
 </a>
 
 <p>
